@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot_mybatis_xml
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hongtao
+Implementation-Vendor-Id: com.how2java.springboot_mybatis_xml
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot_mybatis_xml
+Created-By: Maven Integration for Eclipse
+
